@@ -1,4 +1,2 @@
 # Placement-Prac
-
-## subheader
-hehehe
+This repo contains questions for placement practice
